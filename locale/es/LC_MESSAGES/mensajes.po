@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Autómata"
+msgstr "Autómata"
+
+msgid "INTRODUZCA UNA CADENA:"
+msgstr "INTRODUZCA UNA CADENA:"
+
+msgid "PROCESAR"
+msgstr "PROCESAR"
+
+msgid "RESULTADO"
+msgstr "RESULTADO"
+
+msgid "VELOCIDAD:"
+msgstr "VELOCIDAD:"
+
+msgid "LA CADENA FUE ACEPTADA POR EL AUTÓMATA."
+msgstr "LA CADENA FUE ACEPTADA POR EL AUTÓMATA."
+
+msgid "LA CADENA NO FUE ACEPTADA POR EL AUTÓMATA."
+msgstr "LA CADENA NO FUE ACEPTADA POR EL AUTÓMATA."
+
+msgid "Idiomas"
+msgstr "Idiomas"
+
+msgid "Inglés"
+msgstr "Inglés"
+
+msgid "Francés"
+msgstr "Francés"
+
+msgid "Español"
+msgstr "Español"
